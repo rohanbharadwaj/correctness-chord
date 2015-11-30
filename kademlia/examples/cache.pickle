@@ -1,0 +1,27 @@
+(dp0
+S'neighbors'
+p1
+(lp2
+(S'127.0.0.1'
+p3
+I9597
+tp4
+a(S'127.0.0.1'
+p5
+I8847
+tp6
+a(S'127.0.0.1'
+p7
+I9499
+tp8
+asS'alpha'
+p9
+I3
+sS'ksize'
+p10
+I20
+sS'id'
+p11
+S'\x18)\xa5\xbb\xdc\xb0\xd9\x13\xd2\xde\x04\xf5- \x0f=\x13\xd8\x19}'
+p12
+s.
